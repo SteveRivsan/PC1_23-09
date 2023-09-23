@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PC1_23-09</string>
+    <string name="valtittleCalculo">Calculo de Notas</string>
+    <string name="valtvParcial">Examen Parcial</string>
+    <string name="valtvFinal">Examen Final</string>
+    <string name="valtvpep">Promedio de evaluacion permanente (PEP)</string>
+    <string name="valbtncalcular">CALCULAR</string>
+    <string name="valtvresultado">Resultado</string>
+    <string name="valtvnotafinal">La nota final es:</string>
+    <string name="valtvresult" />
+    <string name="valtvsituacion">Situacion Resultado</string>
+</resources>
